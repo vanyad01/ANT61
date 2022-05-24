@@ -1,0 +1,296 @@
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+conv2d_3 (Conv2D)            (None, 20, 20, 32)        8224      
+_________________________________________________________________
+conv2d_4 (Conv2D)            (None, 9, 9, 64)          32832     
+_________________________________________________________________
+conv2d_5 (Conv2D)            (None, 7, 7, 64)          36928     
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 3136)              0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 512)               1606144   
+_________________________________________________________________
+dense_3 (Dense)              (None, 3)                 1539      
+=================================================================
+Total params: 1,685,667
+Trainable params: 1,685,667
+Non-trainable params: 0
+_________________________________________________________________
+
+Agent Initialized
+
+
+Episode: 0
+Steps: 1466
+Duration: 75.38197922706604
+Score: -20.0
+Max Score: -20.0
+Epsilon: 1
+
+Episode: 1
+Steps: 1411
+Duration: 71.96909832954407
+Score: -19.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 2
+Steps: 1662
+Duration: 83.89026808738708
+Score: -19.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 3
+Steps: 1271
+Duration: 63.17616844177246
+Score: -21.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 4
+Steps: 1662
+Duration: 84.08495092391968
+Score: -19.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 5
+Steps: 1398
+Duration: 69.62760949134827
+Score: -20.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 6
+Steps: 1221
+Duration: 61.343435525894165
+Score: -20.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 7
+Steps: 1177
+Duration: 59.35484504699707
+Score: -21.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 8
+Steps: 1245
+Duration: 61.4980309009552
+Score: -20.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 9
+Steps: 1259
+Duration: 63.059709787368774
+Score: -21.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 10
+Steps: 1304
+Duration: 65.67616724967957
+Score: -20.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 11
+Steps: 1385
+Duration: 71.20767307281494
+Score: -20.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 12
+Steps: 1380
+Duration: 70.16932249069214
+Score: -20.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 13
+Steps: 1180
+Duration: 59.186362743377686
+Score: -21.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 14
+Steps: 1095
+Duration: 55.03414797782898
+Score: -21.0
+Max Score: -19.0
+Epsilon: 1
+
+Episode: 15
+Steps: 1564
+Duration: 78.16872572898865
+Score: -18.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 16
+Steps: 1092
+Duration: 55.005298376083374
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 17
+Steps: 1252
+Duration: 63.14772605895996
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 18
+Steps: 1170
+Duration: 59.12962198257446
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 19
+Steps: 1344
+Duration: 67.29845142364502
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 20
+Steps: 1195
+Duration: 59.18718099594116
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 21
+Steps: 1176
+Duration: 59.11643052101135
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 22
+Steps: 1180
+Duration: 59.17338228225708
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 23
+Steps: 1461
+Duration: 73.50099349021912
+Score: -20.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 24
+Steps: 1102
+Duration: 55.011775732040405
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 25
+Steps: 1089
+Duration: 55.042940616607666
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 26
+Steps: 1165
+Duration: 59.0418758392334
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 27
+Steps: 1186
+Duration: 59.021235704422
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 28
+Steps: 1332
+Duration: 67.23319387435913
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 29
+Steps: 1020
+Duration: 51.02998685836792
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 30
+Steps: 1098
+Duration: 55.00992298126221
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 31
+Steps: 1502
+Duration: 75.53504967689514
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 32
+Steps: 1079
+Duration: 55.02892255783081
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 33
+Steps: 1181
+Duration: 59.10815787315369
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 34
+Steps: 1261
+Duration: 63.31318426132202
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 35
+Steps: 1309
+Duration: 65.39298605918884
+Score: -20.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 36
+Steps: 1250
+Duration: 63.220532178878784
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 37
+Steps: 1553
+Duration: 77.55478763580322
+Score: -20.0
+Max Score: -18.0
+Epsilon: 1
+
+Episode: 38
+Steps: 1191
+Duration: 59.195905923843384
+Score: -21.0
+Max Score: -18.0
+Epsilon: 1
